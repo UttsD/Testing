@@ -1,0 +1,10 @@
+#!/bin/bash
+mkdir dir_1
+cd dir_1
+mkdir dir_2 dir_3 dir_4
+cd dir_3
+touch text_1.txt text_2.txt text_3.txt j_1.json j_2.json
+mkdir dir_5 dir_6 dir_7
+ls -la
+
+
